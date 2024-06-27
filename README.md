@@ -58,4 +58,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Name - nikhilkumarmahto41@gmail.com
+Email - nikhilkumarmahto41@gmail.com
